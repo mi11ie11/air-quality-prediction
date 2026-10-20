@@ -1,0 +1,12 @@
+# Raw data is too large for GitHub; each person downloads it locally (see README)
+data/
+
+# Quarto / R output
+*.html
+*_files/
+.quarto/
+.Rhistory
+.RData
+.Rproj.user/
+
+.DS_Store
